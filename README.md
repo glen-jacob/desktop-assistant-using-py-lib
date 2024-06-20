@@ -1,0 +1,1 @@
+This is a project done using python and some of its libraries. If you want a fully functional project, make sure to download the necessary libraries. It is one of my initial projects, so if there are any bugs or glitches, do report.
